@@ -5,106 +5,97 @@ seo:
   description: Custom description for this page goes here
 ---
 
-
-
----main
----
+## ---main
 
 <PageTitle>
   ### Services
 
-  ### _My Expertise_
+### _Mon Expertise_
+
 </PageTitle>
 
-###### Solving problems
+###### Résolution de problèmes
 
-I design products that are more than pretty. I make them shippable and usable.
-Et tempor non mollit dolor et do aute voluptate ea ullamco.
+"Conçoit et développe des applications, alliant esthétique, utilisabilité et efficacité pour satisfaire les besoins des clients."
 
-###### What you can expect
+###### Ce que vous pouvez attendre
 
-- Design Strategy
-- Web and Mobile App Design
-- Front-end Development
+- Résolution de problèmes techniques
+- Collaboration d'équipe
+- Apprentissage continu
 
-###### Applications I'm fluent in
+###### Les compétences que je maîtrise
 
-- Design Strategy
-- Web and Mobile App Design
-- Front-end Development
+- Stratégie de Conception
+- Conception d'applications Web et Mobiles
+- Développement Front-end
 
 <Sep size="12" />
 
 <Button href="/contact" variant="white" size="sm">
-  Get Free Price Quote
+  Me contacter
 </Button>
 
-
-
 ---services[0]
-title: Web and Mobile App Design
+title: Conception d'applications Web et Mobiles
 icon:
-  src: /icons/mobile-app.svg
+src: /icons/mobile-app.svg
+
 ---
 
 <small>
-  Defining the problem, identifying the scope and finally, organizing. Et tempor non mollit dolor et
-  do aute voluptate ea ullamco culpa pariatur.
+  En tant que développeur d'applications web et mobiles, voici mes compétences principales :
 
-    - <strong>Design Strategy</strong>
-    - <strong>Web and Mobile App Design</strong>
-    - <strong>Front-end Development</strong>
+    - <strong>Conception d'Interfaces Web et Mobiles</strong>
+    - <strong>Stratégie de Conception</strong>
+    - <strong>Développement Front-End</strong>
 
 </small>
-
-
 
 ---services[1]
-title: Project Strategy & Development
+title: Stratégie et Développement de Projets
 icon:
-  src: /icons/prisma.svg
+src: /icons/prisma.svg
+
 ---
 
 <small>
-  Defining the problem, identifying the scope and finally, organizing. Et tempor non mollit dolor et
-  do aute voluptate ea ullamco culpa pariatur.
+  En tant que professionnel de la stratégie et du développement de projets, voici mes compétences clés :
 
-    - <strong>Design Strategy</strong>
-    - <strong>Web and Mobile App Design </strong>
-    - <strong>Front-end Development</strong>
+    - <strong>Planification Stratégique de Projets</strong>
+    - <strong>Gestion de Projet </strong>
+    - <strong>Analyse et Optimisation</strong>
 
 </small>
-
-
 
 ---services[2]
-title: UI/UX Design & Optimization
+title: Conception UI/UX et Optimisation
 icon:
-  src: /icons/dashboard.svg
+src: /icons/dashboard.svg
+
 ---
 
 <small>
-  Defining the problem, identifying the scope and finally, organizing. Et tempor non mollit dolor et
-  do aute voluptate ea ullamco culpa pariatur.
+  En tant que spécialiste en conception UI/UX et en optimisation, voici mon domaine d'expertise :
 
-    - <strong>Design Strategy</strong>
-    - <strong>Web and Mobile App Design</strong>
-    - <strong>Front-end Development</strong>
+    - <strong>Conception d'Interfaces Utilisateur (UI)</strong>
+    - <strong>Expérience Utilisateur (UX)</strong>
+    - <strong>Optimisation des Performances</strong>
+
 </small>
 
-
-
 ---services[3]
-title: Application Audit & Debugging
+title: Audit et Débogage d'Applications
 icon:
-  src: /icons/audit.svg
+src: /icons/audit.svg
+
 ---
 
 <small>
-  Defining the problem, identifying the scope and finally, organizing. Et tempor non mollit dolor et
-  do aute voluptate ea ullamco culpa pariatur.
+  Je suis spécialisé dans l'audit et le débogage d'applications. Voici ce que je fais :
 
-  - <strong>Design Strategy </strong>
-  - <strong>Web and Mobile App Design </strong>
-  - <strong>Front-end Development</strong>
+    - <strong>Audit de l'Application</strong>
+    - <strong>Débogage Expert</strong>
+    - <strong>Optimisation de la Performance </strong>
+
 </small>
