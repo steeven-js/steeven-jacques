@@ -9,10 +9,10 @@ seo:
 
 ---main
 images:
-  - src: /hero-2.png
-    alt: my photo
+  - src: /hero.png
+    alt: Steeven Jacques
   - src: /hero-mobile.jpg
-    alt: my photo
+    alt: Steeven Jacques
 ---
 
 # <Typewriter>Steeven Jacques</Typewriter>
