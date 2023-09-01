@@ -13,7 +13,7 @@ images:
     alt: my photo
 ---
 
-# <Typewriter>Carl Hanson</Typewriter>
+# <Typewriter>Steeven Jacques</Typewriter>
 
 # *Web Developer* <span>&</span> *Growth Consultant*
 
