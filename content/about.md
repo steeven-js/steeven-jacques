@@ -8,7 +8,7 @@ seo:
 
 
 ---personal_info
-name: CARL HANSON
+name: Steeven Jacques
 images:
   - src: /about.jpg
     alt: my image
