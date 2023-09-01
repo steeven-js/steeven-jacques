@@ -6,7 +6,7 @@
  * Icons from react-icons: https://react-icons.github.io/react-icons
  */
 
-import { IoLogoTwitter, IoLogoInstagram, IoLogoLinkedin } from 'react-icons/io5'
+import { IoLogoGithub, IoLogoInstagram, IoLogoLinkedin } from 'react-icons/io5'
 import { TfiHome, TfiPencilAlt } from 'react-icons/tfi'
 import { SlUser, SlBriefcase, SlEnvolope, SlTrophy } from 'react-icons/sl'
 
@@ -16,28 +16,10 @@ import { SlUser, SlBriefcase, SlEnvolope, SlTrophy } from 'react-icons/sl'
 
 export const menu = [
   {
-    name: 'Home',
+    name: 'Accueil',
     slug: '/',
     Icon: TfiHome,
     number: 1,
-  },
-  {
-    name: 'Home (2)',
-    slug: '/index-2',
-    Icon: TfiHome,
-    number: 2,
-  },
-  {
-    name: 'Home (3)',
-    slug: '/index-3',
-    Icon: TfiHome,
-    number: 3,
-  },
-  {
-    name: 'Home (4)',
-    slug: '/index-4',
-    Icon: TfiHome,
-    number: 4,
   },
   {
     name: 'About',
@@ -55,7 +37,7 @@ export const menu = [
     Icon: TfiPencilAlt,
   },
   {
-    name: 'Projects',
+    name: 'Projets',
     slug: '/projects',
     Icon: SlTrophy,
   },
@@ -72,19 +54,19 @@ export const menu = [
 
 export const social = [
   {
-    name: 'Twitter',
-    url: 'https://www.twitter.com/',
-    Icon: IoLogoTwitter,
+    name: 'LinkedIn',
+    url: 'https://www.linkedin.com/',
+    Icon: IoLogoLinkedin,
+  },
+  {
+    name: 'Github',
+    url: 'https://github.com/steeven-js',
+    Icon: IoLogoGithub,
   },
   {
     name: 'Instagram',
     url: 'https://www.instagram.com/',
     Icon: IoLogoInstagram,
-  },
-  {
-    name: 'LinkedIn',
-    url: 'https://www.linkedin.com/',
-    Icon: IoLogoLinkedin,
   },
 ]
 

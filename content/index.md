@@ -1,13 +1,15 @@
 ---
-layout: Home
+layout: Home-2
 seo:
   title: Web Developer
   description: Custom description for this page goes here
 ---
 
+
+
 ---main
 images:
-  - src: /hero.jpg
+  - src: /hero-2.png
     alt: my photo
   - src: /hero-mobile.jpg
     alt: my photo
@@ -15,50 +17,53 @@ images:
 
 # <Typewriter>Steeven Jacques</Typewriter>
 
-# *Web Developer* <span>&</span> *Concepteur d'application*
+## *Web Developer* <span>&</span> *Concepteur d'application*
 
-<Sep size={12} />
+Bienvenue sur mon Portfolio.
 
-Sometimes five Imprimaturs are seen together dialogue-wise in the
-piazza of one title-page, complimenting and ducking each to other with
-their shaven reverences, whether the author, who stands by in
-perplexity at the foot of his epistle, shall to the press or to the
-sponge.
+```js {2-4} showLineNumbers
+const services = [
+  'UI/UX Design'
+  'Web Development'
+  'Mobile App Development'
+]
+if (have_a_project) navigate('/contact')
+```
 
 
 
 ---achievements
-- number: 6+
-  text: Years of experience
-- number: 60+
-  text: Projects Completed
-- number: 5
-  text: OpenSource Libraries
+- number: 4+
+  text: Années d'expériences
+- number: 10+
+  text: Projets complétés
 ---
 
 
 
 ---cta
 ---
-<Button href="/contact" size="lg">
-  Download Resume
+<Button href="/contact" size="sm">
+  Télécharger mon cv
 </Button>
+
+[Get in Touch](/contact)
 
 
 
 ---companies
-title: Trusted By
+title:
 list:
-  - name: Company 1
+  - name: laravel
     icon:
-      src: /icons/logo-1.svg
-  - name: Company 2
+      src: /icons/laravel.svg
+  - name: react
     icon:
-      src: /icons/logo-3.svg
-  - name: Company 3
+      src: /icons/react.svg
+  - name: figma
     icon:
-      src: /icons/logo-3.svg
-  - name: Company 4
+      src: /icons/figma.svg
+  - name: firebase
     icon:
-      src: /icons/logo-4.svg
+      src: /icons/firebase.svg
 ---
