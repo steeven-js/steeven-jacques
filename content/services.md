@@ -5,13 +5,15 @@ seo:
   description: Custom description for this page goes here
 ---
 
-## ---main
+
+
+---main
+---
 
 <PageTitle>
   ### Services
 
-### _Mon Expertise_
-
+  ### _Mon Expertise_
 </PageTitle>
 
 ###### Résolution de problèmes
@@ -36,15 +38,16 @@ seo:
   Me contacter
 </Button>
 
+
+
 ---services[0]
 title: Conception d'applications Web et Mobiles
 icon:
-src: /icons/mobile-app.svg
-
+  src: /icons/mobile-app.svg
 ---
 
 <small>
-  En tant que développeur d'applications web et mobiles, voici mes compétences principales :
+  En tant que développeur d'applications web et mobiles, voici mes compétences principales : 
 
     - <strong>Conception d'Interfaces Web et Mobiles</strong>
     - <strong>Stratégie de Conception</strong>
@@ -52,11 +55,12 @@ src: /icons/mobile-app.svg
 
 </small>
 
+
+
 ---services[1]
 title: Stratégie et Développement de Projets
 icon:
-src: /icons/prisma.svg
-
+  src: /icons/prisma.svg
 ---
 
 <small>
@@ -68,11 +72,12 @@ src: /icons/prisma.svg
 
 </small>
 
+
+
 ---services[2]
 title: Conception UI/UX et Optimisation
 icon:
-src: /icons/dashboard.svg
-
+  src: /icons/dashboard.svg
 ---
 
 <small>
@@ -81,14 +86,14 @@ src: /icons/dashboard.svg
     - <strong>Conception d'Interfaces Utilisateur (UI)</strong>
     - <strong>Expérience Utilisateur (UX)</strong>
     - <strong>Optimisation des Performances</strong>
-
 </small>
+
+
 
 ---services[3]
 title: Audit et Débogage d'Applications
 icon:
-src: /icons/audit.svg
-
+  src: /icons/audit.svg
 ---
 
 <small>
@@ -97,5 +102,4 @@ src: /icons/audit.svg
     - <strong>Audit de l'Application</strong>
     - <strong>Débogage Expert</strong>
     - <strong>Optimisation de la Performance </strong>
-
 </small>
