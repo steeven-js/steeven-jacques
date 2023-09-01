@@ -15,7 +15,7 @@ images:
 
 # <Typewriter>Steeven Jacques</Typewriter>
 
-# *Web Developer* <span>&</span> *Growth Consultant*
+# *Web Developer* <span>&</span> *Concepteur d'application*
 
 <Sep size={12} />
 

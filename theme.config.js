@@ -93,13 +93,13 @@ export const social = [
  */
 
 export const config = {
-  dateLocale: 'en-US',
+  dateLocale: 'fr_FR',
   dateOptions: {
     // dateOptions is passed to JavaScript's toLocaleDateString()
     year: 'numeric',
     month: 'long',
     day: 'numeric',
-    timeZone: 'UTC',
+    timeZone: 'America/Martinique',
   },
   convertKit: {
     tipUrl: 'https://fantastic-mover-3439.ck.page/products/blog',
@@ -138,7 +138,7 @@ export const siteMetaData = {
   titleTemplate: 'Steeven Jacques | %s',
   description: 'A short description goes here.',
   email: 'hello@example.com',
-  locale: 'en_US',
+  locale: 'fr_FR',
   twitter: {
     handle: '@handle',
     site: '@site',

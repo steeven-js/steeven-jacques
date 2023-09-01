@@ -17,12 +17,9 @@ images:
 
 # <Typewriter>Steeven Jacques</Typewriter>
 
-# *Web Developer* <span>&</span> *Growth Consultant*
+## *Web Developer* <span>&</span> *Concepteur d'application*
 
-Sometimes five Imprimaturs are seen together dialogue-wise in the
-piazza of one title-page, complimenting and ducking each to other with
-their shaven reverences, whether the author, who stands by in
-perplexity at the foot of his epistle.
+Bienvenue sur mon Portfolio.
 
 ```js {2-4} showLineNumbers
 const services = [
@@ -36,14 +33,10 @@ if (have_a_project) navigate('/contact')
 
 
 ---achievements
-- number: 6+
-  text: Years of experience
-- number: 70+
-  text: Projects Completed
-- number: 12
-  text: OpenSource Libraries
-- number: 50+
-  text: Clients World Wide
+- number: 4+
+  text: Années d'expériences
+- number: 10+
+  text: Projets complétés
 ---
 
 
@@ -51,7 +44,7 @@ if (have_a_project) navigate('/contact')
 ---cta
 ---
 <Button href="/contact" size="sm">
-  Download Resume
+  Télécharger mon cv
 </Button>
 
 [Get in Touch](/contact)
@@ -61,16 +54,16 @@ if (have_a_project) navigate('/contact')
 ---companies
 title:
 list:
-  - name: Company 1
+  - name: laravel
     icon:
-      src: /icons/logo-1.svg
-  - name: Company 2
+      src: /icons/laravel.svg
+  - name: react
     icon:
-      src: /icons/logo-3.svg
-  - name: Company 3
+      src: /icons/react.svg
+  - name: figma
     icon:
-      src: /icons/logo-3.svg
-  - name: Company 4
+      src: /icons/figma.svg
+  - name: firebase
     icon:
-      src: /icons/logo-4.svg
+      src: /icons/firebase.svg
 ---
