@@ -29,7 +29,7 @@ images:
 
 ---cta
 ---
-## Envie de travailler sur quelque chose d'innovant ?
+## Envie de travailler sur un projet chose d'innovant ?
 
 Dynamisons votre entreprise dès aujourd'hui !
 
