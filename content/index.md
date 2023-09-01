@@ -1,7 +1,7 @@
 ---
-layout: Home-2
+layout: Home
 seo:
-  title: Web Developer
+  title: Concepteur d'application | Web Developer
   description: Custom description for this page goes here
 ---
 
@@ -47,7 +47,7 @@ if (have_a_project) navigate('/contact')
   Télécharger mon cv
 </Button>
 
-[Get in Touch](/contact)
+[Me contacter](/contact)
 
 
 
