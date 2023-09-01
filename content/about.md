@@ -107,7 +107,7 @@ list:
 
 
 ---history[0]
-title: Employment
+title: Mon Parcours
 list:
   - name: Concepteur développeur d'application
     description: Développeur Freelance
@@ -123,7 +123,7 @@ list:
 
 
 ---history[1]
-title: Education
+title: Diplôme
 list:
   - name: Concepteur développeur d'application
     description: Titre professionnel
