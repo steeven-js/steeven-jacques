@@ -1,8 +1,8 @@
 ---
 layout: About
 seo:
-  title: About Me
-  description: Custom description for this page goes here
+  title: Apropos de moi
+  description: Steeven Jacques, concepteur d'application
 ---
 
 
@@ -11,36 +11,36 @@ seo:
 name: Steeven Jacques
 images:
   - src: /about.jpg
-    alt: my image
+    alt: Steeven Jacques
 ---
-##### <span>01.</span> About me
+##### <span>01.</span> A propos de moi
 
-Lorem consequat reprehenderit ipsum nulla qui pariatur tempor officia ad. Excepteur excepteur pariatur ad laborum labore reprehenderit. Do eiusmod sit pariatur nisi. Quis non dolor amet magna eu adipisicing est ex.
+"En tant que concepteur et développeur d'applications passionné, je donne vie à des idées innovantes en combinant ma créativité avec une expertise technique solide pour créer des solutions numériques exceptionnelles."
 
-##### <span>02.</span> Interests and Hobbies
+##### <span>02.</span> Centres d'intérêt et loisirs
 
-Ad Lorem et amet exercitation enim culpa nulla laboris eu eiusmod. Irure fugiat sunt esse consequat consectetur eu laboris voluptate eiusmod dolor. Nisi velit consectetur deserunt esse aliquip esse officia consequat eiusmod voluptate cupidatat id.
+"Bien que mes passions soient diverses, elles convergent vers trois points centraux : les jeux vidéo, le piano et le développement web, où chaque domaine alimente ma créativité et mon engagement quotidien."
 
-##### <span>03.</span> Framework Preferences
+##### <span>03.</span> Mes Framework préférés
 
-Ullamco cillum pariatur qui eu. Aliqua quis in adipisicing nulla do. Reprehenderit cupidatat eiusmod cupidatat ut ipsum pariatur Lorem incididunt. Veniam sunt reprehenderit consectetur ullamco laborum magna sit aliquip minim esse.
+"Mes Frameworks préférés sont Laravel pour sa puissance côté serveur, React pour ses interfaces utilisateur dynamiques et Tailwind CSS pour sa simplicité et son efficacité dans la création de designs élégants."
 
 
 
 ---cta
 ---
-## Ready to discuss your project?
+## Envie de travailler sur quelque chose d'innovant ?
 
-Let's super-charge your business today!
+Dynamisons votre entreprise dès aujourd'hui !
 
 <Button href="/contact">
-  Get a Free Price Quote
+  Me contacter
 </Button>
 
 
 
 ---skills_header
-title: I'm Specialized in
+title: Mes spécialisations
 list:
   - Front-End Design
   - Back-End Development
@@ -52,26 +52,26 @@ list:
 ---skills[0]
 title: Back-End Development
 list:
-  - title: Node.js
-    level: 1
-    icon:
-      src: /icons/nodedotjs.svg
-  - title: Prisma
-    level: 3
-    icon:
-      src: /icons/prisma.svg
-  - title: Svelte
+  - title: Laravel
     level: 4
     icon:
-      src: /icons/svelte.svg
+      src: /icons/laravel.svg
+  - title: Firebase
+    level: 3
+    icon:
+      src: /icons/firebase.svg
+  - title: Stripe
+    level: 3
+    icon:
+      src: /icons/stripe.svg
+  - title: Mysql
+    level: 4
+    icon:
+      src: /icons/mysql.svg
   - title: HTML5
     level: 5
     icon:
       src: /icons/html5.svg
-  - title: Solidity
-    level: 2
-    icon:
-      src: /icons/solidity.svg
 ---
 
 
@@ -82,6 +82,10 @@ list:
 ########################################
 title: Front-End UI/UX Design
 list:
+  - title: Figma
+    level: 5
+    icon:
+      src: /icons/figma.svg
   - title: JavaScript
     level: 4
     icon:
@@ -94,18 +98,10 @@ list:
     level: 4
     icon:
       src: /icons/redux.svg
-  - title: GraphQL
-    level: 2
-    icon:
-      src: /icons/graphql.svg
   - title: Node.js
     level: 4
     icon:
       src: /icons/nodedotjs.svg
-  - title: Prisma
-    level: 5
-    icon:
-      src: /icons/prisma.svg
 ---
 
 
@@ -113,15 +109,15 @@ list:
 ---history[0]
 title: Employment
 list:
-  - name: MetaVerse Inc.
-    description: Web3 Developer
-    date: 2020-Present
-  - name: Vircil Intl Co..
-    description: Back-End Developer and Designer
-    date: 2018-2020
-  - name: Crowdcube Inc.
-    description: Technical Support
-    date: 2018-2015
+  - name: Concepteur développeur d'application
+    description: Développeur Freelance
+    date: 2022-Present
+  - name: Clinique Saint Paul
+    description: Agent Logistique
+    date: 2018-2022
+  - name: Clinique Sainte Marie
+    description: Agent de stérilisation
+    date: 2013-2018
 ---
 
 
@@ -129,13 +125,13 @@ list:
 ---history[1]
 title: Education
 list:
-  - name: Stanford university
-    description: MSc (Computer Science)
-    date: 2006-2010
-  - name: University of Los Angeles
-    description: MSc (Human Computer Interaction)
-    date: 2010-2014
-  - name: Berkeley University
-    description: MSc (Information Technology)
-    date: 2015-2019
+  - name: Concepteur développeur d'application
+    description: Titre professionnel
+    date: 2023
+  - name: Développeur Web Web Mobile
+    description: Titre professionnel
+    date: 2022-2023
+  - name: Hygiène Propreté Environnement
+    description: BTS
+    date: 2012-2013
 ---
