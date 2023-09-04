@@ -1,8 +1,8 @@
 ---
 layout: Projects
 seo:
-  title: Web Development Projects
-  description: Custom description for this page goes here
+  title: Mes derniers projets
+  description: Projets de développement web
 ---
 
 ---github
@@ -13,10 +13,10 @@ repositories:
 ---
 
 <PageTitle>
-  ### My Open-Source Projects
+  ### Mes derniers projets
 </PageTitle>
 
-Discover my most popular open-source projects on Github.
+Découvrez mes projets les plus populaires sur Github.
 
 
 
@@ -27,7 +27,7 @@ collection:
 ---
 
 <PageTitle>
-  ### Latest Projects
+  ### Derniers Projets
 </PageTitle>
 
-I have transformed ideas into remarkable digital products.
+J'ai transformé des idées en produits numériques remarquables.
