@@ -4,7 +4,7 @@ title: The Future of Real-Time Web Applications with Node.js
 description: Ea culpa reprehenderit officia ad sunt ex consequat consequat deserunt fugiat. Sunt pariatur in veniam irure commodo in sint labore non laborum in enim nisi.
 date: '2022-10-01'
 tags:
-  - node-js
+  - laravel
 images:
   - src: /photos/blog-live.jpg
     alt: image alt attribute

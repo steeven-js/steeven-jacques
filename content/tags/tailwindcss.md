@@ -17,4 +17,4 @@ collection:
 
 ### Tailwind CSS Articles
 
-Tailwind CSS is a low-level CSS framework that gives you all of the building blocks you need to build bespoke designs.
+Tailwind CSS est un framework CSS open-source créé par Adam Wathan, Jonathan Reinink, David Hemphill et Steve Schoger. Il permet de créer des interfaces utilisateur personnalisées pour des sites web modernes en utilisant des classes utilitaires et en évitant d'écrire du CSS.

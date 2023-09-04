@@ -1,14 +1,13 @@
 ---
 layout: Post
-title: How To Build A Simple Cryptocurrency Blockchain In Node.js
-description: Dolor ipsum ipsum fugiat sit. Deserunt in non fugiat anim esse reprehenderit. Amet ea officia proident laboris officia ea eu et et adipisicing officia.
-date: '2022-11-21'
+title: Creating Secure Password Flows With Node.js And MySQL
+description: Ea culpa reprehenderit officia ad sunt ex consequat consequat deserunt fugiat. Sunt pariatur in veniam irure commodo in sint labore non laborum in enim nisi.
+date: '2022-10-01'
 tags:
-  - node-js
+  - laravel
 images:
-  - src: /photos/blog-blockchain.jpg
+  - src: /photos/blog-database.jpg
     alt: image alt attribute
-featured: true
 ---
 
 Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents. Using Markdown is different than using a WYSIWYG editor. In an application like Microsoft Word, you click buttons to format words and phrases, and the changes are visible immediately. Markdown isn’t like that. When you create a Markdown-formatted file, you add Markdown syntax to the text to indicate which words and phrases should look different.

@@ -5,7 +5,7 @@ description: Id magna enim excepteur velit aliquip aliquip reprehenderit aute ei
 date: '2022-10-01'
 tags:
   - react
-  - node-js
+  - laravel
 images:
   - src: /photos/blog-vscode.jpg
     alt: image alt attribute
