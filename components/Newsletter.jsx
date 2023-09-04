@@ -8,12 +8,12 @@ import { IoClose } from 'react-icons/io5'
 const IntroMessage = () => (
   <div className="prose dark:prose-invert">
     <h3>
-      <em>Stay Tuned</em>
+      <em>Restez à l'écoute</em>
     </h3>
-    <h6>Want to become a Next.js pro?</h6>
+    <h6>Vous voulez devenir un pro de Laravel et React.js ?</h6>
     <small>
-      The best articles, links and news related to web development delivered once a week to your
-      inbox.
+      Les meilleurs articles, liens et actualités liés au développement web livrés une fois par semaine à votre
+      boîte de réception.
     </small>
   </div>
 )
@@ -25,7 +25,7 @@ const ErrorMessage = ({ errors, name }) =>
 
 const SuccessMessage = ({ handleReset }) => (
   <div className="my-6 mx-auto flex max-w-md justify-between bg-omega-800 p-3">
-    <span className="text-alpha">Please check your inbox and confirm your email.</span>
+    <span className="text-alpha">Veuillez vérifier votre boîte de réception et confirmer votre email.</span>
     <button onClick={() => handleReset()} className="h-5 w-5 hover:bg-omega-900">
       <IoClose className="mx-auto h-4 w-4 text-omega-500" />
     </button>

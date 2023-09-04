@@ -1,8 +1,8 @@
 ---
 layout: Blog
 seo:
-  title: My Blog
-  description: Custom description for this page goes here
+  title: Mon blog
+  description: Quelques articles rédigés sur mes réflexions et mes expériences
 collection:
   path: /blog
   sortBy: date
@@ -10,10 +10,9 @@ collection:
   infinitePaging: true
 ---
 
-### Latest Articles
+### Derniers articles
 
-A few handcrafted articles about my thoughts and experiments.
-
+Quelques articles rédigés sur mes réflexions et mes expériences.
 
 
 ---categories
@@ -22,6 +21,6 @@ collection:
   shallow: true
 ---
 
-### Categories
+### Catégories
 
-<small>I write about web development and modern JavaScript frameworks.</small>
+<small>J'écris sur le développement Web et les frameworks JavaScript modernes.</small>
