@@ -4,8 +4,8 @@ title: Use Serverless Functions and Services to Collect Form Data
 description: Velit dolore id incididunt veniam est commodo cillum excepteur. Consectetur in irure nulla ut magna in duis ut consequat do in commodo dolor in.
 date: '2022-10-01'
 tags:
-  - laravel
   - next-js
+  - laravel
 images:
   - src: /photos/blog-organize.jpg
     alt: image alt attribute

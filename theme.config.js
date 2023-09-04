@@ -118,9 +118,9 @@ export const siteMetaData = {
   siteName: 'Steeven Jacques',
   defaultTitle: 'Steeven Jacques Personal Site',
   titleTemplate: 'Steeven Jacques | %s',
-  description: 'A short description goes here.',
-  email: 'hello@example.com',
-  locale: 'en_US',
+  description: 'Steeven Jacques Personal Site',
+  email: 'contact@jsprod.fr',
+  locale: 'fr-FR',
   twitter: {
     handle: '@handle',
     site: '@site',
