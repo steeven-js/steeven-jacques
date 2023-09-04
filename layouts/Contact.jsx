@@ -1,4 +1,9 @@
-import React from 'react'
+// useState pour gérer les états du formulaire c'est-à-dire les données et les erreurs
+import React from 'react'; 
+// Importer le service Firebase Firestore
+import { firestore } from '../firebase'; 
+// Importer les fonctions Firestore pour ajouter des documents
+import { collection, addDoc } from 'firebase/firestore'; 
 import classNames from 'clsx'
 import { useForm, FormProvider } from 'react-hook-form'
 import ContentRenderer from '@/components/ContentRenderer'
@@ -51,25 +56,46 @@ const Contact01 = ({ main = {} }) => {
 
   const onSubmit = async (data) => {
     try {
-      const res = await fetch(`/api/contact-form`, {
-        method: 'POST',
-        body: JSON.stringify(data),
-        headers: new Headers({
-          'Content-Type': 'application/json',
-          credentials: 'same-origin',
-        }),
-      })
-      if (res.status === 201) {
-        return true
+      // Les champs requis avec "true"
+      const requiredFields = {
+        'email': data.email,
+        'nom': data.nom,
+        'prenom': data.prenom,
+        'budget': data.budget,
+      };
+  
+      // Parcourez les champs du projet-type pour extraire ceux avec "true"
+      for (const field in data['project-type']) {
+        if (data['project-type'][field]) {
+          requiredFields[field] = true;
+        }
       }
-      const json = await res.json()
-      if (json.error) {
-        throw json.error
+  
+      // Affichez les données dans la console
+      for (const fieldName in requiredFields) {
+        if (requiredFields.hasOwnProperty(fieldName)) {
+          console.log(`${fieldName}:`, requiredFields[fieldName]);
+        }
       }
+  
+      // Ajoutez un nouveau document avec une ID générée automatiquement
+      const docRef = await addDoc(collection(firestore, 'contact'), {
+        ...requiredFields,
+        entreprise: data.entreprise,
+        message: data.message,
+        telephone: data.telephone,
+        pays: data.pays,
+      });
+  
+      console.log('Message de confirmation : Formulaire envoyé avec succès ! Document ID:', docRef.id);
+
+      // rediriger vers la page d'accueil
+      window.location.href = '/';
     } catch (error) {
-      setError('service', { type: 'serviceSideError', message: error })
+      setError('service', { type: 'serviceSideError', message: error });
     }
-  }
+  };
+  
 
   React.useEffect(() => {
     if (errors.service && isValidating) {
