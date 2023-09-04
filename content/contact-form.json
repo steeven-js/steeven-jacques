@@ -1,26 +1,26 @@
 [
   {
-    "legend": "Your contact information",
+    "legend": "Vos coordonnées",
     "columns": 3,
     "fields": [
       {
         "type": "text",
         "name": "first-name",
-        "placeholder": "First name",
+        "placeholder": "Prénom",
         "autoComplete": "given-name",
         "required": true
       },
       {
         "type": "text",
         "name": "last-name",
-        "placeholder": "Last name",
+        "placeholder": "Nom",
         "autoComplete": "family-name",
         "required": true
       },
       {
         "type": "text",
         "name": "email",
-        "placeholder": "Email address",
+        "placeholder": "Adresse mail",
         "autoComplete": "email",
         "inputType": "email",
         "required": true
@@ -28,19 +28,19 @@
       {
         "type": "text",
         "name": "company",
-        "placeholder": "Company Name",
+        "placeholder": "Nom de votre entreprise",
         "autoComplete": "company"
       },
       {
         "type": "text",
         "name": "phone",
-        "placeholder": "Phone Number",
+        "placeholder": "Numéro de téléphone",
         "autoComplete": "phone"
       },
       {
         "type": "select",
         "name": "country",
-        "autoComplete": "country-name",
+        "autoComplete": "Pays",
         "defaultValue": "Select Country",
         "options": [
           {
@@ -49,27 +49,31 @@
             "disabled": true
           },
           {
-            "label": "United States",
-            "value": "United States"
+            "label": "France",
+            "value": "France"
+          },
+          {
+            "label": "Belgique",
+            "value": "Belgique"
           },
           {
             "label": "Canada",
             "value": "Canada"
           },
           {
-            "label": "Germany",
-            "value": "Germany"
+            "label": "United States",
+            "value": "United States"
           },
           {
-            "label": "France",
-            "value": "France"
+            "label": "Préciser dans le message",
+            "value": "Préciser dans le message"
           }
         ]
       }
     ]
   },
   {
-    "legend": "What services do you need for your project?",
+    "legend": "De quels services avez-vous besoin pour votre projet ?",
     "columns": 3,
     "fields": [
       {
@@ -105,37 +109,37 @@
     ]
   },
   {
-    "legend": "How much is the anticipated budget?",
+    "legend": "Quel est le budget prévu ?",
     "columns": 3,
     "fields": [
       {
         "type": "radio",
         "name": "budget",
-        "value": "Less than $2,000",
-        "label": "Less than $2,000"
+        "value": "Moin de 2,000€",
+        "label": "Moin de 2,000€"
       },
       {
         "type": "radio",
         "name": "budget",
-        "value": "$2,000 - $10,000",
-        "label": "$2,000 - $10,000"
+        "value": "2,000€ - 10,000€",
+        "label": "2,000€ - 10,000€"
       },
       {
         "type": "radio",
         "name": "budget",
-        "value": "More than $10,000",
-        "label": "More than $10,000"
+        "value": "Plus de 10,000€",
+        "label": "Plus de 10,000€"
       }
     ]
   },
   {
-    "legend": "Tell me about your project",
+    "legend": "Parlez-moi de votre projet",
     "columns": 1,
     "fields": [
       {
         "type": "textarea",
         "name": "message",
-        "placeholder": "Project description",
+        "placeholder": "Description du projet",
         "rows": 3
       }
     ]

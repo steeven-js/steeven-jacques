@@ -75,7 +75,7 @@ export const social = [
  */
 
 export const config = {
-  dateLocale: 'en-US',
+  dateLocale: 'fr-FR',
   dateOptions: {
     // dateOptions is passed to JavaScript's toLocaleDateString()
     year: 'numeric',
@@ -88,9 +88,9 @@ export const config = {
   },
   contactForm: {
     inputs: require('./content/contact-form.json'),
-    recipient: 'RECIPIENT@EXAMPLE.com',
-    sender: 'SENDER@EXAMPLE.com',
-    subject: 'EMAIL NOTIFICATION SUBJECT',
+    recipient: 'contact@jsprod.fr',
+    sender: 'jacques.steeven@gmail.com',
+    subject: 'Demande de contact Portfolio',
   },
 }
 

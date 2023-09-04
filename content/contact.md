@@ -1,7 +1,7 @@
 ---
 layout: Contact
 seo:
-  title: Contact Me
+  title: Contactez moi
   description: Custom description for this page goes here
 ---
 
@@ -11,23 +11,23 @@ seo:
 ---
 
 <PageTitle>
-  ### Get in touch
+  ### Entrer en contact
 
-  ### _Let's talk about your project_
+  ### _Parlons de votre projet_
 </PageTitle>
 
-Thinking about a new project, a problem to solve, or just want to connect? Let's do it!
+Vous réfléchissez à un nouveau projet, à un problème à résoudre ou souhaitez simplement vous connecter ? Faisons-le!
 
-Use the form on this page or get in touch by other means.
+Utilisez le formulaire sur cette page ou contactez-nous par d'autres moyens.
 
 <Sep size="12" />
 
 <small>
-  <Icon src="/icons/call.svg" className="inline mr-2 align-middle fill-current text-omega-500" /> Phone: (888) 777-6666
+  <Icon src="/icons/call.svg" className="inline mr-2 align-middle fill-current text-omega-500" /> Telephone: +596 696 30 76 31
 
-  <Icon src="/icons/mail.svg" className="mr-2 inline align-middle fill-current text-omega-500" /> Email: hello@carl.io
+  <Icon src="/icons/mail.svg" className="mr-2 inline align-middle fill-current text-omega-500" /> Email: jacques.steeven@gmail.com
+  
+  <Icon src="/icons/logo-linkedin.svg" className="mr-2 inline align-middle fill-current text-omega-500" /> Linkedin: [SteevenJacques](https://www.linkedin.com/in/steeven-jacques-1337a9238)
 
-  <Icon src="/icons/logo-linkedin.svg" className="mr-2 inline align-middle fill-current text-omega-500" /> Linkedin: [CarlHanson](http://linkedin.com/vercel)
-
-  <Icon src="/icons/logo-twitter.svg" className="mr-2 inline align-middle fill-current text-omega-500" /> Twitter: [@CarlHanson](http://twitter.com/vercel)
+  <Icon src="/icons/logo-github.svg" className="mr-2 inline align-middle fill-current text-omega-500" /> Twitter: [@SteevenJacques](https://github.com/steeven-js)
 </small>
