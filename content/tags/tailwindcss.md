@@ -3,7 +3,7 @@ layout: Blog
 title: Tailwind CSS
 seo:
   title: Tailwind CSS Articles
-  description: Custom description for this page goes here
+  description: Tailwind CSS Articles
 collection:
   path: /blog
   recordsPerPage: 9
