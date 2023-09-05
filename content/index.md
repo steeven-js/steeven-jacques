@@ -43,11 +43,11 @@ if (have_a_project) navigate('/contact')
 
 ---cta
 ---
-<Button href="https://firebasestorage.googleapis.com/v0/b/dashboard-f3222.appspot.com/o/CVJacquesSteeven.pdf?alt=media&token=4f4cc045-d83b-46b9-963a-5a0a86952bc9" size="sm">
-  Télécharger mon cv
+<Button href="/contact" size="sm">
+  Me contacter
 </Button>
 
-[Me contacter](/contact)
+[Télécharger mon cv](https://firebasestorage.googleapis.com/v0/b/dashboard-f3222.appspot.com/o/CVJacquesSteeven.pdf?alt=media&token=4f4cc045-d83b-46b9-963a-5a0a86952bc9)
 
 
 
