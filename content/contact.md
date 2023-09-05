@@ -2,7 +2,7 @@
 layout: Contact
 seo:
   title: Contactez moi
-  description: Custom description for this page goes here
+  description: Contactez moi
 ---
 
 
