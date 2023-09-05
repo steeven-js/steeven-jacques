@@ -3,7 +3,7 @@ layout: Blog
 title: Laravel
 seo:
   title: Laravel Articles
-  description: Custom description for this page goes here
+  description: Laravel Articles
 collection:
   path: /blog
   recordsPerPage: 9
