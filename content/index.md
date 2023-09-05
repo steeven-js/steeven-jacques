@@ -2,7 +2,7 @@
 layout: Home
 seo:
   title: Concepteur d'application | Web Developer
-  description: Custom description for this page goes here
+  description: Concepteur d'application | Web Developer
 ---
 
 
