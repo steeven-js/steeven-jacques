@@ -1,22 +1,22 @@
 ---
 layout: Post
-title: Dashboard Aquaphoenix
-description: Gestion des bon de commande, des tarifs, des clients, gestion des rapport, génération de pdf, envoi automatique de mail, monitoring, etc...
+title: React Landing Page "nike-landing-page"
+description: Ma première landing page avec React.Js
 date: '2022-11-22'
 tags:
   - next-js
   - stripe
   - shopify
 logo:
-  src: /icons/logo-1.svg
+  src: /icons/logo-2.svg
   alt: Company X
 images:
-  - src: /projects/project-1.png
+  - src: /projects/project-2.png
     alt: Control Panel Dashboard
     overlay:
-      src: /projects/project-1-mobile.png
+      src: /projects/project-2-mobile.png
       alt: Control Panel Mobile
-  - src: /projects/project-1.png
+  - src: /projects/project-2.png
     alt: Customers Dashboard
 attributes:
   - label: Duration
