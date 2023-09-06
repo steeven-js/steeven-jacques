@@ -2,14 +2,12 @@
 layout: Post
 title: Aquaphoenix documentation
 description: vite-press-documentation
-date: '2022-11-22'
+date: '2023-08-08'
 tags:
-  - next-js
-  - stripe
-  - shopify
+  - vite-press
 logo:
-  src: /icons/logo-3.svg
-  alt: Company X
+  src: /icons/vitepress.svg
+  alt: vitepress
 images:
   - src: /projects/project-3.png
     alt: Control Panel Dashboard
@@ -20,14 +18,14 @@ images:
     alt: Customers Dashboard
 attributes:
   - label: Duration
-    value: 3 Weeks
+    value: 1 semaine - actualisation constante
   - label: Role
-    value: NodeJS API Server
+    value: Documentation
   - label: Atmosphere
     value: Cool
   - label: Technology
-    value: GRaphQL
+    value: VitePress & Markdown
 ---
 
-Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents. Using Markdown is different than using a WYSIWYG editor. In an application like Microsoft Word, you click buttons to format words and phrases, and the changes are visible immediately. Markdown isn’t like that. When you create a Markdown-formatted file, you add Markdown syntax to the text to indicate which words and phrases should look different.
+Présentation du projet en cours de rédacation ...
 
