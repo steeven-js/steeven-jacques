@@ -44,6 +44,7 @@ title: Mes spécialisations
 list:
   - Front-End Design
   - Back-End Development
+  - Mobile Development
   - Modern Frameworks
 ---
 
