@@ -2,7 +2,7 @@
 layout: Post
 title: Dashboard Aquaphoenix
 description: Gestion des bon de commande, des tarifs, des clients, gestion des rapport, génération de pdf, envoi automatique de mail, monitoring, etc...
-date: '2023-09-23'
+date: '2023-08-01'
 tags:
   - laravel
   - filamanentPhp

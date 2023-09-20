@@ -18,7 +18,7 @@ images:
     alt: Customers Dashboard
 attributes:
   - label: Duration
-    value: 1 semaine - actualisation constante
+    value: 4h - actualisation constante
   - label: Role
     value: Documentation
   - label: Atmosphere
