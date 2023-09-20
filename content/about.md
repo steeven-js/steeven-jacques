@@ -111,7 +111,7 @@ title: Mon Parcours
 list:
   - name: Concepteur développeur d'application
     description: Développeur Freelance
-    date: 2022-Present
+    date: 2023-Present
   - name: Clinique Saint Paul
     description: Agent Logistique
     date: 2018-2022
