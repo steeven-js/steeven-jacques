@@ -17,7 +17,7 @@ images:
 
 # <Typewriter>Steeven Jacques</Typewriter>
 
-## *Web Developer* <span>&</span> *Concepteur d'application*
+## *Web Developer* <span>&</span> *Application designer*
 
 Bienvenue sur mon Portfolio.
 
