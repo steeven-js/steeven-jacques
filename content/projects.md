@@ -1,8 +1,8 @@
 ---
 layout: Projects
 seo:
-  title: Mes derniers projets
-  description: Projets de développement web
+  title: Portfolio de Projets
+  description: Découvrez mes réalisations professionnelles et créatives
 ---
 
 ---github
@@ -13,10 +13,10 @@ repositories:
 ---
 
 <PageTitle>
-  ### Mes derniers projets
+  ### Mes Réalisations
 </PageTitle>
 
-Découvrez mes projets les plus populaires sur Github.
+Un aperçu de mon expérience et de mes compétences
 
 
 
@@ -27,7 +27,7 @@ collection:
 ---
 
 <PageTitle>
-  ### Derniers Projets
+  ### Portfolio de Projets
 </PageTitle>
 
-J'ai transformé des idées en produits numériques remarquables.
+Découvrez mes réalisations professionnelles et créatives.
