@@ -27,6 +27,11 @@ export const menu = [
     Icon: SlUser,
   },
   {
+    name: 'Projets',
+    slug: '/projects',
+    Icon: SlTrophy,
+  },
+  {
     name: 'Services',
     slug: '/services',
     Icon: SlBriefcase,
@@ -35,11 +40,6 @@ export const menu = [
     name: 'Articles',
     slug: '/blog',
     Icon: TfiPencilAlt,
-  },
-  {
-    name: 'Projets',
-    slug: '/projects',
-    Icon: SlTrophy,
   },
   {
     name: 'Contact',
