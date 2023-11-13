@@ -69,10 +69,10 @@ list:
     level: 4
     icon:
       src: /icons/mysql.svg
-  - title: HTML5
-    level: 5
+  - title: Node.js
+    level: 3
     icon:
-      src: /icons/html5.svg
+      src: /icons/nodedotjs.svg
 ---
 
 
@@ -88,7 +88,7 @@ list:
     icon:
       src: /icons/figma.svg
   - title: JavaScript
-    level: 4
+    level: 3
     icon:
       src: /icons/javascript.svg
   - title: React
@@ -96,13 +96,14 @@ list:
     icon:
       src: /icons/react.svg
   - title: Redux
-    level: 4
+    level: 2
     icon:
       src: /icons/redux.svg
-  - title: Node.js
-    level: 4
+  - title: HTML5
+    level: 5
     icon:
-      src: /icons/nodedotjs.svg
+      src: /icons/html5.svg
+
 ---
 
 
