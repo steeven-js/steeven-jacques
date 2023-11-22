@@ -27,6 +27,4 @@ attributes:
     value: VitePress & Markdown
 ---
 
-Présentation du projet en cours de rédacation ...
-
 [Aquaphoenix_doc](https://github.com/steeven-js/aquaphoenix_doc/) Lien github du projet.

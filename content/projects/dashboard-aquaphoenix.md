@@ -31,76 +31,80 @@ attributes:
     value: Laravel 10 & PHP 8.1 & MySQL 8 & TailwindCSS 3 
 ---
 
-Présentation du projet en cours de rédacation ...
+---
 
-## Aquaphoenix
-
-Génération de bon de livraison et autres
-
+## **Projet Aquaphoenix**
+Génération de bon de livraison.
 [Aquaphoenix](https://aquaphoenix.jsprod.fr/) Lien du projet.
 
-## Version 1.2 - 06/09/2023
+### Technologies Utilisées
 
-### Nouveautés
+- **Laravel**: Framework PHP moderne et puissant.
+- **Filament**: Interface d'administration élégante pour Laravel.
+- **Breeze**: Authetification.
+- **domPDF**: Bibliothèque pour la génération de fichiers PDF depuis des vues HTML.
+- **SQL**: Langage de requête pour la gestion des bases de données relationnelles.
 
-- Introduction d'une toute nouvelle interface utilisateur, offrant une expérience améliorée et conviviale.
-- Amélioration des fonctionnalités de suivi des livraisons.
-- Intégration de nouvelles options de personnalisation pour les utilisateurs.
-- Mise à jour de la documentation pour refléter les changements de l'interface.
-- Ajout de la fonctionnalité de création de rapports mensuels.
+### Dépendances du Projet (Composer)
 
-## Version 1.1.2 - 28/08/2023
+```json
+"require": {
+    "php": "^8.1",
+    "guzzlehttp/guzzle": "^7.2",
+    "laravel/framework": "^10.10",
+    "laravel/sanctum": "^3.2",
+    "laravel/tinker": "^2.8",
+    "barryvdh/laravel-dompdf": "^2.0",
+    "filament/filament": "^3.0",
+    "filament/spatie-laravel-media-library-plugin": "^3.0",
+    "filament/spatie-laravel-settings-plugin": "^3.0",
+    "filament/spatie-laravel-tags-plugin": "^3.0",
+    "filament/spatie-laravel-translatable-plugin": "^3.0",
+    "flowframe/laravel-trend": "^0.1.1"
+},
+"require-dev": {
+    "fakerphp/faker": "^1.9.1",
+    "laravel/breeze": "^1.23",
+    "laravel/pint": "^1.0",
+    "laravel/sail": "^1.18",
+    "mockery/mockery": "^1.4.4",
+    "nunomaduro/collision": "^7.0",
+    "phpunit/phpunit": "^10.1",
+    "spatie/laravel-ignition": "^2.0",
+    "nunomaduro/larastan": "^2.1"
+}
+```
 
-### Ajouts
+### Fonctionnalités Principales
 
-- Intégration de la fonctionnalité d'enregistrement des livraisons dans la base de données.
-- Mise en place de l'envoi automatique des notifications par e-mail pour les livraisons individuelles en utilisant Mailtrap.
-- Mise en place de l'envoi automatique des récapitulatifs hebdomadaires des livraisons par e-mail via Mailtrap.
+1. **Espace Admin avec FilamentPHP**
 
-### Corrections
+   - Utilisation de FilamentPHP pour une interface d'administration intuitive.
 
-- Préparation à la mise à jour future de l'interface utilisateur.
+2. **Génération et Sauvegarde de Bon de Livraison en PDF**
 
-## Version 1.1.1 - 21/08/2023
+   - Utilisation de domPDF pour générer des bons de livraison au format PDF.
 
-### Ajouts
+3. **Rapport Mensuel**
 
-- Filament : widget Nombre de client
-- Filament : widget Nombre de livraisons cette année
-- Filament : widget Nombre de livraisons le mois dernier
-- Filament : widget Livraisons par mois
-- Filament : widget Total kg
+   - Tableau de bord affichant les livraisons du mois précédent, du mois en cours, et le poids total du mois en cours.
 
-## Version 1.1.0 - Date 24/07/2023
+4. **Tableau de Bords**
 
-### Modifications
+   - Création d'un tableau de bord comprenant des statistiques clés.
+   - Affichage du nombre de livraisons du mois précédent, du mois en cours, et du poids total en kg pour le mois en cours.
 
-- Mise à jour de l'interface utilisateur avec de nouveaux éléments visuels.
-- Amélioration de la convivialité de l'interface de génération de PDF.
-- Optimisation des performances pour une navigation plus rapide.
+5. **Graphiques Statistiques**
 
-### Corrections
+   - Graphique illustrant les livraisons par mois.
+   - Graphique représentant le total des poids (en kg) par mois.
 
-- Correction d'un bug lié à l'affichage des dates de livraison dans certaines circonstances.
+6. **Gestion des Données**
 
-## Version 1.0.0 - Date 17/07/2023
+   - Création, modification et suppression de désignations, clients et livraisons.
 
-### Ajouts
+7. **Rapport des Livraisons par Mois**
 
-- Création initiale de l'application Aquaphoenix.
-- Mise en place du tableau de bord personnalisé pour la gestion des bons de livraison et des produits.
-- Intégration de la génération automatisée de bons de livraison.
-- Ajout de la fonctionnalité de gestion des clients.
-- Intégration de la génération de PDF pour les bons de livraison.
-- Mise en place de la liste de livraison dédiée.
+   - Génération automatisée d'un rapport détaillé des livraisons par mois.
 
-### Modifications
-
-- Refonte de l'interface utilisateur pour une expérience conviviale.
-- Amélioration des performances pour une utilisation fluide.
-- Optimisation de la génération de PDF pour une meilleure qualité d'impression.
-
-### Corrections
-
-- Correction de bugs mineurs liés à la saisie des données des clients.
-- Résolution d'un problème de mise en page sur la liste de livraison.
+---

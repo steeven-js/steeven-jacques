@@ -28,6 +28,4 @@ attributes:
     value: React.Js & React-Router-Dom & TailwindCSS 3
 ---
 
-Présentation du projet en cours de rédacation ...
-
 [Nike_landing_page](https://github.com/steeven-js/nike_landing_page/) Lien github du projet.
