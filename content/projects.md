@@ -26,8 +26,3 @@ collection:
   sortBy: date
 ---
 
-<PageTitle>
-  ### Portfolio de Projets
-</PageTitle>
-
-Découvrez mes réalisations professionnelles et créatives.

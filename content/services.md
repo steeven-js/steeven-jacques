@@ -16,19 +16,18 @@ seo:
   ### _Mon Expertise_
 </PageTitle>
 
-###### Résolution de problèmes
+###### Concepteur développeur d'application
 
 "Conçoit et développe des applications, alliant esthétique, utilisabilité et efficacité pour satisfaire les besoins des clients."
 
 ###### Ce que vous pouvez attendre
 
-- Résolution de problèmes techniques
-- Collaboration d'équipe
-- Apprentissage continu
+- Conception d'applications Web et Mobiles
+- Conception UI/UX et Optimisation
+- Stratégie et Développement de Projets
 
 ###### Les compétences que je maîtrise
 
-- Stratégie de Conception
 - Conception d'applications Web et Mobiles
 - Développement Front-end
 
@@ -56,8 +55,21 @@ icon:
 </small>
 
 
-
 ---services[1]
+title: Conception UI/UX et Optimisation
+icon:
+  src: /icons/dashboard.svg
+---
+
+<small>
+  En tant que spécialiste en conception UI/UX et en optimisation, voici mon domaine d'expertise :
+
+    - <strong>Conception d'Interfaces Utilisateur (UI)</strong>
+    - <strong>Expérience Utilisateur (UX)</strong>
+    - <strong>Optimisation des Performances</strong>
+</small>
+
+---services[2]
 title: Stratégie et Développement de Projets
 icon:
   src: /icons/prisma.svg
@@ -74,32 +86,3 @@ icon:
 
 
 
----services[2]
-title: Conception UI/UX et Optimisation
-icon:
-  src: /icons/dashboard.svg
----
-
-<small>
-  En tant que spécialiste en conception UI/UX et en optimisation, voici mon domaine d'expertise :
-
-    - <strong>Conception d'Interfaces Utilisateur (UI)</strong>
-    - <strong>Expérience Utilisateur (UX)</strong>
-    - <strong>Optimisation des Performances</strong>
-</small>
-
-
-
----services[3]
-title: Audit et Débogage d'Applications
-icon:
-  src: /icons/audit.svg
----
-
-<small>
-  Je suis spécialisé dans l'audit et le débogage d'applications. Voici ce que je fais :
-
-    - <strong>Audit de l'Application</strong>
-    - <strong>Débogage Expert</strong>
-    - <strong>Optimisation de la Performance </strong>
-</small>

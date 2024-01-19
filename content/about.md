@@ -29,7 +29,7 @@ images:
 
 ---cta
 ---
-## Envie de travailler sur un projet chose d'innovant ?
+## Envie de travailler sur un projet innovant ?
 
 Dynamisons votre entreprise dès aujourd'hui !
 
@@ -69,10 +69,6 @@ list:
     level: 4
     icon:
       src: /icons/mysql.svg
-  - title: Node.js
-    level: 3
-    icon:
-      src: /icons/nodedotjs.svg
 ---
 
 
@@ -83,26 +79,22 @@ list:
 ########################################
 title: Front-End UI/UX Design
 list:
-  - title: Figma
-    level: 5
-    icon:
-      src: /icons/figma.svg
-  - title: JavaScript
-    level: 3
-    icon:
-      src: /icons/javascript.svg
-  - title: React
-    level: 3
-    icon:
-      src: /icons/react.svg
-  - title: Redux
-    level: 2
-    icon:
-      src: /icons/redux.svg
   - title: HTML5
     level: 5
     icon:
       src: /icons/html5.svg
+  - title: JavaScript
+    level: 3
+    icon:
+      src: /icons/javascript.svg
+  - title: Figma
+    level: 5
+    icon:
+      src: /icons/figma.svg
+  - title: React
+    level: 3
+    icon:
+      src: /icons/react.svg
 
 ---
 
